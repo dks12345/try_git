@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-A  Tcats dogs lala
-=======
 A  Tcats 
->>>>>>> e30f318c16fa60f7e7f757a62205812dd8eb9a03
+
